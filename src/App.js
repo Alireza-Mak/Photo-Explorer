@@ -33,7 +33,7 @@ class App extends React.Component {
         <div className="container border py-4">
           <div className="text-center">
             <img
-              src="./img/logo.png"
+              src="./img/logo.png" alt="Logo"
               className="img-fluid float-left"
               width={50}
             />
