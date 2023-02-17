@@ -1,0 +1,10 @@
+/** @format */
+
+.container {
+  border-radius: 7px;
+}
+input:focus {
+  border-color: inherit !important;
+  font-family: 'Courier New', Courier, monospace;
+  box-shadow: none !important;
+}
